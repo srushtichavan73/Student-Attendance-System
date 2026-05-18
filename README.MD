@@ -54,9 +54,22 @@ CREATE TABLE attendance (
 
 *(Add your screenshots here — update file names as per your folder)*
 
-![Login](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Attendance](screenshots/attendance.png)
+## 📷 Screenshots
+
+### 🔐 Login Screen
+![Login](Screenshots/login.png)
+
+### 🏠 Dashboard
+![Dashboard](Screenshots/Dashboard.png)
+
+### 📝 Mark Attendance
+![Mark Attendance](Screenshots/MarkAttendance.png)
+
+### 📊 View Attendance
+![View Attendance](Screenshots/ViewAttendance.png)
+
+### 📋 Student List
+![Student List](screenshots/Student-list.png)
 
 
 ## 💡 Key Learnings
