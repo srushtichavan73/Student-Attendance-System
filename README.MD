@@ -1,7 +1,6 @@
 # Student Attendance Management System
-
-A desktop-based Java application to automate student attendance tracking.
-
+A Java-based desktop application built using Swing and JDBC to manage student attendance efficiently, 
+featuring secure admin authentication, real-time attendance marking, and MySQL-based data storage.
 ## 🛠️ Technologies Used
 - Java (Core Java, OOP)
 - Java Swing (GUI)
