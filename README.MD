@@ -63,10 +63,10 @@ CREATE TABLE attendance (
 ![Dashboard](Screenshots/Dashboard.png)
 
 ### 📝 Mark Attendance
-![Mark Attendance](Screenshots/MarkAttendance.png)
+![Mark Attendance](Screenshots/mark-attendance.png)
 
 ### 📊 View Attendance
-![View Attendance](Screenshots/ViewAttendance.png)
+![View Attendance](Screenshots/view-attendance.png)
 
 ### 📋 Student List
 ![Student List](screenshots/Student-list.png)
