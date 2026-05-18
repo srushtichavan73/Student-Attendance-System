@@ -69,7 +69,7 @@ CREATE TABLE attendance (
 ![View Attendance](Screenshots/view-attendance.png)
 
 ### 📋 Student List
-![Student List](screenshots/Student-list.png)
+![Student List](screenshots/student-list.png)
 
 
 ## 💡 Key Learnings
